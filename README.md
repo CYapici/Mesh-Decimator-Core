@@ -6,10 +6,7 @@ Mesh Decimator C#
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/major/MinHeap Java-perl.svg)](http://isitmaintained.com/project/major/MinHeap Java-perl "Percentage of issues still open")
 
 THIS PROJECT HAS BEEN CONVERTED FROM   http://www.melax.com/polychop which is c++     ...
-
-
  
-**Question: How can i get most frequent top X item with java 8 **
  
 ```  
 The dT variable is  desired decimation count to subract from the vertices array.
